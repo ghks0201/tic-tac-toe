@@ -1,0 +1,14 @@
+main {
+    margin: auto;
+}
+
+.gameboard {
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 300px;
+}
+
+button {
+    flex-basis: 100px;
+}
